@@ -20,3 +20,9 @@ body {
     height: 200px;
 }
 
+.container{
+    
+    font-size : 500%;
+    text-align : center;
+    margin: 30px;
+}
